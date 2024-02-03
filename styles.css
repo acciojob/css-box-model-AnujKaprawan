@@ -1,10 +1,7 @@
-.box {
-  width: 300px;
-  background-color: lightblue;
-  border: 15px solid blue;
-  padding: 50px;
-  margin: 20px;
-  box-sizing: border-box; /* This property is important to include the border and padding in the total width */
-  text-align: center; /* To center the text inside the box */
+#innerbox{
+	width: 300px;
+	background-color: rgb(173, 216, 230);
+	border: 15px solid rgb(0, 0, 255);
+	padding: 50px;
+	margin: 20px;
 }
-/* Your CSS Code here. */
